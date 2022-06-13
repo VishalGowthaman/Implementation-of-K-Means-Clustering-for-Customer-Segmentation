@@ -8,10 +8,11 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Import the necessary packages.
+2.Read the given csv file and display the few contents of the data.
+3.Import KMeans and use for loop to calculate the within cluster sum of squares the data.
+4.Plot the wcss for each iteration, also known as the elbow method plot.
+5.Predict the clusters and plot them. 
 
 ## Program:
 ```
